@@ -4,7 +4,7 @@ Chat fullstack web application
 # ToDo:
 ### Planning and Design:
 - [x] Defining requirements
-  - [ ] Specify application features
+  - [x] Specify application features
     - registration
       - sending an e-mail with an activation link
     - login
@@ -13,9 +13,13 @@ Chat fullstack web application
     - notifications
 
 - [ ] Tech stack
-  - [ ] Frontend
-  - [ ] Backend
-  - [ ] Real-time communication
+  - [x] Frontend
+    - React (JavaScript, HTML, CSS)
+  - [x] Backend
+    - Springboot (Java)
+    - MySQL, MongoDB (Databases)
+  - [x] Real-time communication
+    - WebSockets
 - [ ] User interface project
   - [ ] Make wireframes of main pages
 
