@@ -4,8 +4,13 @@ Chat fullstack web application
 # ToDo:
 ### Planning and Design:
 - [ ] Defining requirements
+  - [ ] Specify application features (registration, login, sending/receiving a message, contact list, notifications).
 - [ ] Tech stack
-- [ ] User interface project (wireframes)
+  - [ ] Frontend
+  - [ ] Backend
+  - [ ] Real-time communication
+- [ ] User interface project
+  - [ ] Make wireframes
 
 ### Init project:
 - [ ] Frontend project initialization
