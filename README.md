@@ -29,7 +29,15 @@ Chat fullstack web application
 
 ### Backend development
 - [ ] Spring boot project configuration
-  - [ ] Add dependencies (Spring Web, Spring Data, JPA, MySQL, Spring Seciruty, Spring WebSocket)
+  - [ ] Add dependencies
+    - Spring Web,
+    - Spring Data,
+    - JPA,
+    - MySQL,
+    - MongoDB,
+    - Spring Seciruty,
+    - Spring WebSocket
+      
   - [ ] Configure Database connection
 - [ ] Entities
   - [ ] Create entities(users, messages, etc...)
