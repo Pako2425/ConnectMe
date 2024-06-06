@@ -37,10 +37,13 @@ Chat fullstack web application
     - [ ] Repositories
   - [ ] Integration tests
   
-  ### Frontend development
-- [ ] React project initialization
+### Frontend development
 - [ ] Components and containers
   - [ ] Create components for login, registration, contacts list and messages.
 - [ ] Services
+  - [ ] Create service files that communicate with the backend using axios.
 - [ ] Styling
+  - [ ] Adding CSS styles
 - [ ] WebSocket
+  - [ ] WebSocket configuration in React
+- [ ] Testing
