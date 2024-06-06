@@ -10,7 +10,7 @@ Chat fullstack web application
   - [ ] Backend
   - [ ] Real-time communication
 - [ ] User interface project
-  - [ ] Make wireframes
+  - [ ] Make wireframes of main pages
 
 ### Init project:
 - [ ] Frontend project initialization
@@ -18,8 +18,18 @@ Chat fullstack web application
 
 ### Backend development
 - [ ] Spring boot project configuration
-  - [ ] Spring boot project configuration
-- [ ] Make entities (users, messegaes, etc...)
+  - [ ] Add dependencies (Spring Web, Spring Data, JPA, MySQL, Spring Seciruty, Spring WebSocket)
+  - [ ] Configure Database connection
+- [ ] Entities
+  - [ ] Create entities(users, messages, etc...)
 - [ ] Repositories
+  - [ ] Create repositories interfaces for entities
 - [ ] Services
+  - [ ] Create business services to handle aplication logic
+- [ ] Controllers
+  - [ ] Create controllers for handling http requests
+- [ ] Websockets
+  - [ ] Websockets configuration for real-time communication
+
+  ### Frontend development
 - [ ] 
