@@ -34,7 +34,9 @@ Chat fullstack web application
 - [ ] Entities
   - [ ] Create entities(users, messages, etc...)
 - [ ] Repositories
-  - [ ] Create repositories interfaces for entities
+  - [ ] Create repositories
+    - SQL for managing users, profiles and transactional data
+    - NoSQL for storing and managing messages, logs and data requiring flexibility and scalability
 - [ ] Services
   - [ ] Create business services to handle aplication logic
 - [ ] Controllers
