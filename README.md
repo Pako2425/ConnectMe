@@ -30,6 +30,17 @@ Chat fullstack web application
   - [ ] Create controllers for handling http requests
 - [ ] Websockets
   - [ ] Websockets configuration for real-time communication
-
+- [ ] Testing
+  - [ ] Unit testing of:
+    - [ ] Controllers
+    - [ ] Services
+    - [ ] Repositories
+  - [ ] Integration tests
+  
   ### Frontend development
-- [ ] 
+- [ ] React project initialization
+- [ ] Components and containers
+  - [ ] Create components for login, registration, contacts list and messages.
+- [ ] Services
+- [ ] Styling
+- [ ] WebSocket
