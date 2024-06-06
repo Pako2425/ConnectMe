@@ -3,8 +3,15 @@ Chat fullstack web application
 
 # ToDo:
 ### Planning and Design:
-- [ ] Defining requirements
-  - [ ] Specify application features (registration, login, sending/receiving a message, contact list, notifications).
+- [x] Defining requirements
+  - [ ] Specify application features
+    - registration
+      - sending an e-mail with an activation link
+    - login
+    - sending messages
+    - contact list
+    - notifications
+
 - [ ] Tech stack
   - [ ] Frontend
   - [ ] Backend
