@@ -35,7 +35,7 @@ Chat fullstack web application
     - JPA,
     - MySQL,
     - MongoDB,
-    - Spring Seciruty,
+    - Spring Security,
     - Spring WebSocket
       
   - [ ] Configure Database connection
