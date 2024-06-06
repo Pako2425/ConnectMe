@@ -1,7 +1,7 @@
 # ConnectMe
 Chat fullstack web application
 
-#ToDo:
+# ToDo:
 - [ ] Pierwsze zadanie z listy
 - [ ] Drugie zadanie z list
 - [x] Wykonane zadanie
