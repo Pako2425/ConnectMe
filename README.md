@@ -28,8 +28,8 @@ Chat fullstack web application
 
 
 ### Init project:
-- [ ] Frontend project initialization
-- [ ] Backend project initialization
+- [x] Frontend project initialization
+- [x] Backend project initialization
 
 ### Backend development
 - [ ] Spring boot project configuration
