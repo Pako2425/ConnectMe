@@ -12,7 +12,7 @@ Chat fullstack web application
     - contact list
     - notifications
 
-- [ ] Tech stack
+- [x] Tech stack
   - [x] Frontend
     - React (JavaScript, HTML, CSS)
   - [x] Backend
@@ -20,8 +20,12 @@ Chat fullstack web application
     - MySQL, MongoDB (Databases)
   - [x] Real-time communication
     - WebSockets
-- [ ] User interface project
-  - [ ] Make wireframes of main pages
+- [x] User interface project
+  - [x] Make wireframes of main pages
+    ![image](https://github.com/Pako2425/ConnectMe/assets/84390058/db8dc910-5d91-470c-b382-a2a22cf9b05c)
+    ![image](https://github.com/Pako2425/ConnectMe/assets/84390058/e1777133-deb4-42ca-b59e-a0a302a98fc8)
+    ![image](https://github.com/Pako2425/ConnectMe/assets/84390058/9e6d3e4a-c792-40e7-b225-f72f530e4ef4)
+
 
 ### Init project:
 - [ ] Frontend project initialization
