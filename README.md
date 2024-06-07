@@ -32,8 +32,8 @@ Chat fullstack web application
 - [x] Backend project initialization
 
 ### Backend development
-- [ ] Spring boot project configuration
-  - [ ] Add dependencies
+- [x] Spring boot project configuration
+  - [x] Add dependencies
     - Spring Web,
     - Spring Data,
     - JPA,
