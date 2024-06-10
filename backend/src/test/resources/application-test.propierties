@@ -1,0 +1,3 @@
+spring.datasource.url='jdbc:mysql://localhost:3306/connectme'
+spring.datasource.username='root'
+spring.datasource.password='Jagusiek31'
