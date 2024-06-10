@@ -42,7 +42,7 @@ Chat fullstack web application
     - Spring Security,
     - Spring WebSocket
       
-  - [ ] Configure Database connection
+  - [x] Configure Database connection
 - [ ] Entities
   - [ ] Create entities(users, messages, etc...)
 - [ ] Repositories
