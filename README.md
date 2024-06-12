@@ -18,6 +18,8 @@ Chat fullstack web application
   - [x] Backend
     - Springboot (Java)
     - MySQL, MongoDB (Databases)
+    ![image](https://github.com/Pako2425/ConnectMe/assets/84390058/3085badb-b782-401b-999b-74d0bc4703d3)
+
   - [x] Real-time communication
     - WebSockets
 - [x] User interface project
